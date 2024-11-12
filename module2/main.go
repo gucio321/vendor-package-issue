@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/gucio321/vendor-package-issue/vendor"
+	"github.com/gucio321/vendor-package-issue/module1/vendor"
 )
 
 func main() {
