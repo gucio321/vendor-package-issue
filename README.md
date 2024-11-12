@@ -31,3 +31,8 @@ says:
 # Escalation
 
 This was brought to [golang/go](https://github.com/golang/go) in [#70303](https://github.com/golang/go/issues/70303)
+
+# Solution
+
+Turns out that go had an issue for that [#37397](https://github.com/golang/go/issues/37397) that was fixed in october 2024
+and the fix will be included in go 1.24 (february 2025)
