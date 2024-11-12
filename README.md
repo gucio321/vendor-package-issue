@@ -27,3 +27,7 @@ as for today, the go.dev documentation: https://go.dev/ref/mod#vendoring
 says:
 
 > Unlike vendoring in GOPATH mode, the go command ignores vendor directories in locations other than the main module’s root directory. Additionally, since vendor directories in other modules are not used, the go command does not include vendor directories when building module zip files (but see known bugs #31562 and #37397).
+
+# Escalation
+
+This was brought to [golang/go](https://github.com/golang/go) in [#70303](https://github.com/golang/go/issues/70303)
