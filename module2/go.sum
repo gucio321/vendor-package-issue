@@ -1,4 +1,2 @@
-github.com/gucio321/vendor-package-issue/module1 v0.0.0-20241112161842-36d30388a2ad h1:SmQq4aMwGotiEpzExrMD5NXV4XZs67wFOP3yVWCZJdc=
-github.com/gucio321/vendor-package-issue/module1 v0.0.0-20241112161842-36d30388a2ad/go.mod h1:mhuQkioKqojqYIOMoHCryfM8fwTDmcYWSVAJ2eykahw=
-github.com/gucio321/vendor-package-issue/module1 v0.0.0-20241112162119-351b9d7fcd83 h1:PJQ49ABNBAghHzo1gUbj8+d4PCQvyIr5qa5VggQLfuU=
-github.com/gucio321/vendor-package-issue/module1 v0.0.0-20241112162119-351b9d7fcd83/go.mod h1:mhuQkioKqojqYIOMoHCryfM8fwTDmcYWSVAJ2eykahw=
+github.com/gucio321/vendor-package-issue/module1 v0.0.0-20241112162347-622b9dbe0ec8 h1:8pgC7LmogBd1VHl0pp8hyJf8gkCunpxPKsy8vEur5SE=
+github.com/gucio321/vendor-package-issue/module1 v0.0.0-20241112162347-622b9dbe0ec8/go.mod h1:mhuQkioKqojqYIOMoHCryfM8fwTDmcYWSVAJ2eykahw=
