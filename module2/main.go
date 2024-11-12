@@ -8,5 +8,5 @@ import (
 
 func main() {
 	fmt.Println("vim-go")
-	module1.Fn1()
+	module1.Foo()
 }
