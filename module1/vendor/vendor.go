@@ -2,6 +2,6 @@ package vendor
 
 import "fmt"
 
-func Fn() {
+func Foo() {
 	fmt.Println("Hello world from vendor package")
 }
