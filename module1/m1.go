@@ -1,7 +1,7 @@
 package module1
 
-import "fmt"
+import "github.com/gucio321/vendor-package-issue/module1/vendor"
 
 func Foo() {
-	fmt.Println("Hello world")
+	vendor.Foo()
 }
